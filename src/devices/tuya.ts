@@ -4760,6 +4760,7 @@ export const definitions: DefinitionWithExtend[] = [
             "_TZ3000_jsfzkftc",
             "_TZ3000_0ghwhypc",
             "_TZ3000_1adss9de",
+            "_TZ3000_i9oy2rdq",
         ]),
         model: "TS0001_power",
         description: "Switch with power monitoring",
